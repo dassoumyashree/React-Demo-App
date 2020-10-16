@@ -1,0 +1,67 @@
+// axios.get(apiUrls.TRAVEL_API_URL)
+        // .then(res => { 
+        //   setApiResponse(res.data)
+        // })
+
+        // fetch('http://localhost:9000/testAPI')
+        // .then(res => res.text())
+        // .then(res => setApiResponse(JSON.parse(res)))
+
+
+        // {apiResponse.length !== 0 ?  
+//   <TravelList travelData={apiResponse} />
+//  : <p>Loading...</p> }
+
+// const filteredData = data.map((d) => {
+      //    return {
+      //     plancode: d.plancode,
+      //     planname: d.planname,
+      //     planheading: d.planheading,
+      //     plandetails: d.plandetails,
+      //     price: d.price,
+      //     rating: d.rating
+      //   }
+      // })
+
+      {/* <AppBar color="primary" position="sticky">
+        <Toolbar>
+            My Title
+        </Toolbar>
+      </AppBar> */}
+
+
+      // class App extends React.Component {
+//   // constructor(props) {
+//   //   super(props)
+//   //   this.state = {
+//   //     apiResponse: ''
+//   //   }
+//   // }
+
+//     // callApi() {
+//     //   fetch('http://localhost:9000/testAPI')
+//     //   .then(res => res.text())
+//     //   .then(res => this.setState({apiResponse: res}));
+//     // }
+
+//     // UNSAFE_componentWillMount() {
+//     //   this.callApi();
+//     // }
+
+//     // render () {
+//     //   return (
+//     //     <div className="App">
+//     //       <header className="App-header">
+//     //         <img src={logo} className="App-logo" alt="logo" />
+//     //       </header>
+//     //       <p>
+//     //         {this.state.apiResponse}
+//     //       </p>
+//     //     </div>
+//     //   );
+//     // }
+// }
+
+// <button onClick={props.handleClick}>
+        //     {props.name}
+        // </button>
